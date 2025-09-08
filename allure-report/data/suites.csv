@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13526","Test","chromium","Mon Sep 08 23:38:13 AEST 2025","passed","Mon Sep 08 23:38:26 AEST 2025","","pomTest.spec.js","",""
+"","3586","Handle table","webkit","Mon Sep 08 23:38:13 AEST 2025","passed","Mon Sep 08 23:38:16 AEST 2025","","handleTable.spec.js","",""
+"","14142","Test","firefox","Mon Sep 08 23:38:13 AEST 2025","passed","Mon Sep 08 23:38:27 AEST 2025","","pomTest.spec.js","",""
+"","4465","Handle table","firefox","Mon Sep 08 23:38:13 AEST 2025","passed","Mon Sep 08 23:38:17 AEST 2025","","handleTable.spec.js","",""
+"","4199","Handle table","chromium","Mon Sep 08 23:38:13 AEST 2025","passed","Mon Sep 08 23:38:17 AEST 2025","","handleTable.spec.js","",""
+"","15185","Test","webkit","Mon Sep 08 23:38:13 AEST 2025","passed","Mon Sep 08 23:38:28 AEST 2025","","pomTest.spec.js","",""
